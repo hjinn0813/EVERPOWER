@@ -32,6 +32,18 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 <br>
 
+## 👩‍💻 팀원 소개 & 업무분담
+
+- **조혜진** [@hjinn0813](http://github.com/hjinn0813) : `팀장` (담당파트)
+
+- **진가영** [@JIN-415](https://github.com/JIN-415) : 
+
+- **윤내리** [@ONNIRANG](https://github.com/ONNIRANG) : 
+
+- **아닝거** [@aningoo0921](https://github.com/aningoo0921) : 
+
+<br>
+
 ## 👔 주요 기능
 (사진 추가하면서 설명)
 
