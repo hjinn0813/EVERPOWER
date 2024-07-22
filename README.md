@@ -3,7 +3,7 @@
 # '에버파워 | EVERPOWER' 사이트 제작
 
 <br>
-<p align=center><img src="#" width="300"></p>
+<p align=center><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/LOGO.png" width="300"></p>
 <br>
 SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨어 공식 쇼핑몰 'EVERPOWER'입니다.
 <br>
