@@ -11,10 +11,6 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 ## 💻 배포 주소
 
-- **피그마 프로토타입 (로그인 필수)**
-
-  https://www.figma.com/proto/f02jVqgX8Yzc499lEGEY3H/EverPower?node-id=0-1&t=w64RtL6qKAwppEnR-1
-
 - **노션 링크 (회의록)**
 
   https://phase-turquoise-0a5.notion.site/a2ec713d6e0548af98b2ebeb279f4ccf?v=1c247dba2fb24996b6ef39e9b463c7fd&pvs=4
