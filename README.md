@@ -38,6 +38,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 | WOMEN <br> MEN <br> EVENT (Web) <br> 결제하기 <br> MY PAGE <br> 회원정보수정 |          SALE <br> EVENT (mobile) <br> 상세 페이지           |     ABOUT <br> 로그인 <br> 회원가입 <br> 장바구니      |           MAIN <br> 로고 <br> 상단/하단바            |
 
 **→ Web `11개`, 모바일 `10개` 페이지 제작**
+
 (MEN/WOMEN/SALE은 구성이 같아 1개로 간주함)
 
 <br>
@@ -174,7 +175,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 ## 📌 User Flow
 
-<p align=center><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/userflow.png" width="500"></p>
+<p align=center><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/userflow.png" width="900"></p>
 
 ---
 
