@@ -53,11 +53,15 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 ## 👔 주요 기능
 
-(웹 버전과 모바일 버전의 기능 90% 일치하여, 모바일은 모바일이라 차별점을 둔 부분만 설명)
+- 웹 버전과 모바일 버전의 기능 90% 일치하여, 모바일은 모바일이라 차별점을 둔 부분만 설명
 
-### [페이지별 기능 상세보기 (click!)](https://github.com/hjinn0813/EVERPOWER/wiki)
+- 페이지명을 클릭하면 기능 상세보기 가능
 
-### 메인 페이지
+  [**페이지별 기능 상세보기 (click!)**](https://github.com/hjinn0813/EVERPOWER/wiki)
+
+<br>
+
+### [메인 페이지](https://github.com/hjinn0813/EVERPOWER/wiki/Main-Page)
 
 <p align="center"><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/web-main.png" width="500"></p>
 
@@ -90,11 +94,11 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
     → 유저가 언제든 원하는 곳으로 이동할 수 있어 편의성 향상
 
-### ABOUT (Web)
+### [ABOUT (Web)](<https://github.com/hjinn0813/EVERPOWER/wiki/ABOUT-(Web)>)
 
 - 텍스트 mask animation과 페이지 하단의 재생 가능한 영상으로 액티브한 이미지 구현
 
-### 맨, 우먼, 세일
+### [맨, 우먼, 세일](https://github.com/hjinn0813/EVERPOWER/wiki/MEN,-WOMEN,-SALE)
 
 - **Web** :
 
@@ -114,7 +118,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
   - '필터' 기능과 '보기 정렬'의 dropdown 기능을 한 공간 안에서 구현
 
-### 상세보기
+### [상세보기](<https://github.com/hjinn0813/EVERPOWER/wiki/Detail-(%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)>)
 
 - **Web** :
 
@@ -136,7 +140,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
     → 유저는 언제든지 결정할 수 있고, 유저의 결정으로 기업은 이익을 볼 확률이 높아짐
 
-### EVENT
+### [EVENT](https://github.com/hjinn0813/EVERPOWER/wiki/EVENT)
 
 - **Web** :
 
@@ -152,7 +156,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
     → 출석체크 이후에도 다양한 이벤트를 구경하며 유저의 체류시간 극대화
 
-### 장바구니
+### [장바구니](https://github.com/hjinn0813/EVERPOWER/wiki/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)
 
 - **Web** :
 
@@ -160,7 +164,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
   - 옵션 변경의 dropdown
 
-### 결제하기
+### [결제하기](https://github.com/hjinn0813/EVERPOWER/wiki/%EA%B2%B0%EC%A0%9C%ED%95%98%EA%B8%B0)
 
 - **Web** :
 
@@ -172,7 +176,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
   - `결제하기` 버튼 하단 고정 → '상세 페이지'와 같은 이유로 적용한 기능
 
-### 회원정보수정
+### [회원정보수정](https://github.com/hjinn0813/EVERPOWER/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%95)
 
 - **Web** :
 
