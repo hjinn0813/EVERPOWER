@@ -35,7 +35,10 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 |        조혜진 `팀장` <br> [(@hjinn0813)](http://github.com/hjinn0813)        | 아닝거 <br> [(@aningoo0921)](https://github.com/aningoo0921) | 윤내리 <br> [(@ONNIRANG)](https://github.com/ONNIRANG) | 진가영 <br> [(@JIN-415)](https://github.com/JIN-415) |
 | :--------------------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: |
-| WOMEN <br> MEN <br> EVENT (WEB) <br> 결제하기 <br> MY PAGE <br> 회원정보수정 |          SALE <br> EVENT (mobile) <br> 상세 페이지           |     ABOUT <br> 로그인 <br> 회원가입 <br> 장바구니      |           MAIN <br> 로고 <br> 상단/하단바            |
+| WOMEN <br> MEN <br> EVENT (Web) <br> 결제하기 <br> MY PAGE <br> 회원정보수정 |          SALE <br> EVENT (mobile) <br> 상세 페이지           |     ABOUT <br> 로그인 <br> 회원가입 <br> 장바구니      |           MAIN <br> 로고 <br> 상단/하단바            |
+
+**→ Web `11개`, 모바일 `10개` 페이지 제작**
+(MEN/WOMEN/SALE은 구성이 같아 1개로 간주함)
 
 <br>
 
@@ -166,6 +169,12 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
   - `배송지 관리` 버튼 → 클릭하면 배송지 목록 modal 등장
 
   - `수정 완료` 버튼 → 클릭하면 안내 modal 등장, 두번째 modal에서 `확인` 클릭하면 'MY PAGE'로 이동
+
+<br>
+
+## 📌 User Flow
+
+<p align=center><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/userflow.png" width="500"></p>
 
 ---
 
