@@ -59,6 +59,8 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 ### 메인 페이지
 
+<p align="center"><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/web-main.png" width="500"></p>
+
 - **Web** : 사이트 전체의 첫인상이라 심플하고 깔끔한 느낌으로 제작
 
   - Navigation bar → 클릭하면 주황색으로 변경되며 해당 페이지로 이동, 호버하면 오픈되는 Mega menu
@@ -68,6 +70,11 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
   - Slide banner → 자동/수동 모두 기능하도록 구현
 
   - Footer → 전자상거래 페이지에서 반드시 명시해야하는 내용 포함
+
+<br>
+<br>
+
+<p align="center"><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/mobile-main.png" width="250"></p>
 
 - **모바일** :
 
