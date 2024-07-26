@@ -37,7 +37,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
   <tbody>
     <tr>
       <th style="padding: 8px" width="145">
-        조혜진 <br /><a href="http://github.com/hjinn0813">(@hjinn0813)</a>
+        조혜진 (팀장) <br /><a href="http://github.com/hjinn0813">(@hjinn0813)</a>
       </th>
       <th style="padding: 8px" width="145">
         아닝거 <br /><a href="https://github.com/aningoo0921">(@aningoo0921)</a>
