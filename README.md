@@ -33,10 +33,51 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 ## 👩‍💻 팀원 소개 & 업무분담
 
-|        조혜진 `팀장` <br> [(@hjinn0813)](http://github.com/hjinn0813)        | 아닝거 <br> [(@aningoo0921)](https://github.com/aningoo0921) | 윤내리 <br> [(@ONNIRANG)](https://github.com/ONNIRANG) | 진가영 <br> [(@JIN-415)](https://github.com/JIN-415) |
-| :--------------------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: |
-| WOMEN <br> MEN <br> EVENT (Web) <br> 결제하기 <br> MY PAGE <br> 회원정보수정 |          SALE <br> EVENT (mobile) <br> 상세 페이지           |     ABOUT <br> 로그인 <br> 회원가입 <br> 장바구니      |           MAIN <br> 로고 <br> 상단/하단바            |
-
+<table>
+  <tbody>
+    <tr>
+      <th style="padding: 8px" width="145">
+        조혜진 <br /><a href="http://github.com/hjinn0813">(@hjinn0813)</a>
+      </th>
+      <th style="padding: 8px" width="145">
+        아닝거 <br /><a href="https://github.com/aningoo0921">(@aningoo0921)</a>
+      </th>
+      <th style="padding: 8px" width="145">
+        윤내리 <br /><a href="https://github.com/ONNIRANG">(@ONNIRANG)</a>
+      </th>
+      <th style="padding: 8px" width="145">
+        진가영 <br /><a href="https://github.com/JIN-415">(@JIN-415)</a>
+      </th>
+    </tr>
+    <tr>
+      <td style="padding: 8px" align="center">
+          WOMEN <br />
+          MEN <br />
+          EVENT (Web) <br />
+          결제하기 <br />
+          MY PAGE <br />
+          회원정보수정
+      </td>
+      <td style="padding: 8px" align="center">
+          SALE <br />
+          EVENT (mobile) <br />
+          상세 페이지
+      </td>
+      <td style="padding: 8px" align="center">
+          ABOUT <br />
+          로그인 <br />
+          회원가입 <br />
+          장바구니
+      </td>
+      <td style="padding: 8px" align="center">
+          MAIN <br />
+          로고 <br />
+          상단/하단바
+      </td>
+    </tr>
+  </tbody>
+</table>
+    
 **→ Web `11개`, 모바일 `10개` 페이지 제작**
 
 (MEN/WOMEN/SALE은 구성이 같아 1개로 간주함)
