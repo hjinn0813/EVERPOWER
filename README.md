@@ -31,6 +31,14 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 <br>
 
+## 🎨 사용 기술
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+<br>
+
 ## 👩‍💻 팀원 소개 & 업무분담
 
 <table>
@@ -83,14 +91,6 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 - 각자 담당하는 Web 버전 제작이 끝나면 모바일 버전 제작
 
 - MEN/WOMEN/SALE은 구성이 같아 1개로 계산함
-
-<br>
-
-## 🎨 사용 기술
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <br>
 
