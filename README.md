@@ -3,7 +3,7 @@
 # '에버파워 | EVERPOWER' 사이트 제작
 
 <br>
-<p align=center><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/LOGO.png" width="300"></p>
+<p align=center><img src="https://github.com/yjinn0813/EVERPOWER/blob/main/LOGO.png" width="300"></p>
 <br>
 SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨어 공식 쇼핑몰 'EVERPOWER'입니다.
 <br>
@@ -45,7 +45,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
   <tbody>
     <tr>
       <th style="padding: 8px" width="145">
-        조혜진 (팀장) <br /><a href="http://github.com/hjinn0813">(@hjinn0813)</a>
+        조유진 (팀장) <br /><a href="http://github.com/yjinn0813">(@yjinn0813)</a>
       </th>
       <th style="padding: 8px" width="145">
         아닝거 <br /><a href="https://github.com/aningoo0921">(@aningoo0921)</a>
@@ -100,13 +100,13 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 - 페이지명을 클릭하면 해당 페이지의 기능 상세보기 가능
 
-  [**페이지별 기능 상세보기 (click!)**](https://github.com/hjinn0813/EVERPOWER/wiki)
+  [**페이지별 기능 상세보기 (click!)**](https://github.com/yjinn0813/EVERPOWER/wiki)
 
 <br>
 
-### [메인 페이지](https://github.com/hjinn0813/EVERPOWER/wiki/Main-Page)
+### [메인 페이지](https://github.com/yjinn0813/EVERPOWER/wiki/Main-Page)
 
-<p align="center"><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/web-main.png" width="500"></p>
+<p align="center"><img src="https://github.com/yjinn0813/EVERPOWER/blob/main/web-main.png" width="500"></p>
 
 - **Web** : 사이트 전체의 첫인상이라 심플하고 깔끔한 느낌으로 제작
 
@@ -121,7 +121,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 <br>
 <br>
 
-<p align="center"><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/mobile-main.png" width="250"></p>
+<p align="center"><img src="https://github.com/yjinn0813/EVERPOWER/blob/main/mobile-main.png" width="250"></p>
 
 - **모바일** :
 
@@ -137,11 +137,11 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
     → 유저가 언제든 원하는 곳으로 이동할 수 있어 편의성 향상
 
-### [ABOUT (Web)](<https://github.com/hjinn0813/EVERPOWER/wiki/ABOUT-(Web)>)
+### [ABOUT (Web)](<https://github.com/yjinn0813/EVERPOWER/wiki/ABOUT-(Web)>)
 
 - 텍스트 mask animation과 페이지 하단의 재생 가능한 영상으로 액티브한 이미지 구현
 
-### [맨, 우먼, 세일](https://github.com/hjinn0813/EVERPOWER/wiki/MEN,-WOMEN,-SALE)
+### [맨, 우먼, 세일](https://github.com/yjinn0813/EVERPOWER/wiki/MEN,-WOMEN,-SALE)
 
 - **Web** :
 
@@ -161,7 +161,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
   - '필터' 기능과 '보기 정렬'의 dropdown 기능을 한 공간 안에서 구현
 
-### [상세보기](<https://github.com/hjinn0813/EVERPOWER/wiki/Detail-(%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)>)
+### [상세보기](<https://github.com/yjinn0813/EVERPOWER/wiki/Detail-(%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)>)
 
 - **Web** :
 
@@ -183,7 +183,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
     → 유저는 언제든지 결정할 수 있고, 유저의 결정으로 기업은 이익을 볼 확률이 높아짐
 
-### [EVENT](https://github.com/hjinn0813/EVERPOWER/wiki/EVENT)
+### [EVENT](https://github.com/yjinn0813/EVERPOWER/wiki/EVENT)
 
 - **Web** :
 
@@ -199,7 +199,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
     → 출석체크 이후에도 다양한 이벤트를 구경하며 유저의 체류시간 극대화
 
-### [장바구니](https://github.com/hjinn0813/EVERPOWER/wiki/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)
+### [장바구니](https://github.com/yjinn0813/EVERPOWER/wiki/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)
 
 - **Web** :
 
@@ -207,7 +207,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
   - 옵션 변경의 dropdown
 
-### [결제하기](https://github.com/hjinn0813/EVERPOWER/wiki/%EA%B2%B0%EC%A0%9C%ED%95%98%EA%B8%B0)
+### [결제하기](https://github.com/yjinn0813/EVERPOWER/wiki/%EA%B2%B0%EC%A0%9C%ED%95%98%EA%B8%B0)
 
 - **Web** :
 
@@ -219,7 +219,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
   - `결제하기` 버튼 하단 고정 → '상세 페이지'와 같은 이유로 적용한 기능
 
-### [회원정보수정](https://github.com/hjinn0813/EVERPOWER/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%95)
+### [회원정보수정](https://github.com/yjinn0813/EVERPOWER/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%95)
 
 - **Web** :
 
@@ -231,7 +231,7 @@ SeSAC 강동 3기 - 1차 팀 프로젝트에서 제작한 가상의 스포츠웨
 
 ## 📌 User Flow
 
-<p align=center><img src="https://github.com/hjinn0813/EVERPOWER/blob/main/userflow.png" width="900"></p>
+<p align=center><img src="https://github.com/yjinn0813/EVERPOWER/blob/main/userflow.png" width="900"></p>
 
 ---
 
